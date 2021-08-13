@@ -9,3 +9,5 @@ datagroup: default_datagroup {
 }
 
 persist_with: default_datagroup
+
+explore: order_items {}
