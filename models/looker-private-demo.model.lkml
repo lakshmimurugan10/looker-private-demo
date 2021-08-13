@@ -10,4 +10,7 @@ datagroup: default_datagroup {
 
 persist_with: default_datagroup
 
-explore: order_items {}
+explore: order_items {
+  label: "Ecommerce Demo"
+  view_name: order_items
+}
